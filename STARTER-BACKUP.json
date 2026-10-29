@@ -1,0 +1,251 @@
+{
+  "format": "English Mastery OS Backup",
+  "createdAt": "2026-10-29T00:00:00.000Z",
+  "state": {
+    "schema": 1,
+    "revision": 0,
+    "records": {
+      "t-basic-1": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-2": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-3": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-4": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-5": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-6": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-7": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-8": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-9": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-10": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-11": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-12": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-13": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-14": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-15": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-16": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-17": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "t-basic-18": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-1": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-2": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-3": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-4": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-5": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-6": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-7": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-8": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "g-basic-9": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-11": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-12": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-21": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-22": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-31": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-32": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-41": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-42": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-51": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-52": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-61": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-62": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-71": {
+        "at": "baseline",
+        "seeded": true
+      },
+      "r1-72": {
+        "at": "baseline",
+        "seeded": true
+      }
+    },
+    "activity": [],
+    "reflections": [],
+    "settings": {
+      "startDate": "2026-10-29",
+      "deadline": "2027-03-23",
+      "theme": "dark",
+      "basicPerDay": 2,
+      "intermediatePerDay": 1,
+      "plans": {
+        "aef": {
+          "enabled": true,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "perDay": 1
+        },
+        "listening": {
+          "enabled": true,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "perDay": 1
+        },
+        "grammar": {
+          "enabled": true,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "perDay": 2
+        },
+        "reading": {
+          "enabled": true,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "perDay": 1
+        },
+        "writing": {
+          "enabled": true,
+          "days": [
+            2,
+            5
+          ],
+          "perDay": 1
+        },
+        "busuu": {
+          "enabled": true,
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "perDay": 1
+        }
+      }
+    }
+  }
+}
